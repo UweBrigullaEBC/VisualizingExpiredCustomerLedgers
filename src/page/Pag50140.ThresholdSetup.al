@@ -1,4 +1,4 @@
-page 50100 ThresholdSetup
+page 50140 ThresholdSetup
 {
     ApplicationArea = All;
     Caption = 'Threshold Setup';

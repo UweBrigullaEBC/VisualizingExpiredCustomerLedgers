@@ -1,4 +1,4 @@
-table 50100 ThresholdSetup
+table 50140 ThresholdSetup
 {
     Caption = 'Threshold Setup';
     DataClassification = CustomerContent;

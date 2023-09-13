@@ -1,4 +1,4 @@
-enum 50100 StyleType
+enum 50140 StyleType
 {
     Extensible = true;
 
