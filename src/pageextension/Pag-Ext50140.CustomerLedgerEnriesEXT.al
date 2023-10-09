@@ -2,7 +2,7 @@ pageextension 50140 CustomerLedgerEnriesEXT extends "Customer Ledger Entries"
 {
     layout
     {
-        addfirst(content)
+        addlast(Control1)
         {
             field(NumberOfDaysExpired; Rec.GetNumberOfDaysExpired())
             {
